@@ -2,16 +2,16 @@
 # Alton Brown's Guac
 
 ### Ingredients
-··* 3 medium ripe Hass avocados, halved and pitted (peel removed)
-⋅⋅* 1 tablespoons lime juice from 1 medium lime
-··* 1/2 teaspoon kosher salt
-··* 1/2 teaspoon ground cumin
-··* 1/4 teaspoon ground cayenne pepper
-··* 1/2 cup onion, finely diced
-··* 2 small Roma tomatoes, seeded and diced
-··* 1 large clove garlic, minced
-··* 1 tablespoon fresh cilantro, chopped
-··* 1/2 jalapeno, minced
+* 3 medium ripe Hass avocados, halved and pitted (peel removed)
+* 1 tablespoons lime juice from 1 medium lime
+* 1/2 teaspoon kosher salt
+* 1/2 teaspoon ground cumin
+* 1/4 teaspoon ground cayenne pepper
+* 1/2 cup onion, finely diced
+* 2 small Roma tomatoes, seeded and diced
+* 1 large clove garlic, minced
+* 1 tablespoon fresh cilantro, chopped
+* 1/2 jalapeno, minced
 
 ### Instructions
 
