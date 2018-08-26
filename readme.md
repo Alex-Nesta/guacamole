@@ -15,8 +15,8 @@
 
 ### Instructions
 
-```
+
 Place the avocado pulp and lime juice in a large mixing bowl and toss to combine. Add the salt, cumin and cayenne and mash using a potato masher, leaving some larger chunks for texture. Add the onion, tomatoes, garlic, cilantro and jalapeno and stir to combine. Lay plastic wrap directly on the surface of the guacamole and allow to sit at room temperature for 2 hours before serving.
-```
+
 
 By Good Eats: The Early Years and images © Alton Brown, 2015
